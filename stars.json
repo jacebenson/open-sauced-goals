@@ -1,19 +1,19 @@
 [
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 59164,
-    "open_issues_count": 376,
-    "forks_count": 7942
+    "stargazers_count": 59274,
+    "open_issues_count": 383,
+    "forks_count": 7962
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 216366,
-    "open_issues_count": 220,
-    "forks_count": 31241
+    "stargazers_count": 216779,
+    "open_issues_count": 136,
+    "forks_count": 31325
   },
   {
     "full_name": "bholmesdev/whiteboard-the-web",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 15832,
+    "stargazers_count": 15837,
     "open_issues_count": 786,
-    "forks_count": 2852
+    "forks_count": 2851
   },
   {
     "full_name": "ekansh005/elewind",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "umami-software/umami",
-    "stargazers_count": 13519,
-    "open_issues_count": 75,
-    "forks_count": 2078
+    "stargazers_count": 13556,
+    "open_issues_count": 77,
+    "forks_count": 2085
   },
   {
     "full_name": "codecreativeio/ServiceNow-Catalog-Experience",
@@ -68,7 +68,7 @@
   {
     "full_name": "redwoodjs/example-store-stripe",
     "stargazers_count": 26,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 13
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "mailgun/transactional-email-templates",
-    "stargazers_count": 6740,
+    "stargazers_count": 6743,
     "open_issues_count": 12,
-    "forks_count": 1176
+    "forks_count": 1179
   },
   {
     "full_name": "MBahrSNC/mega",
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "echobind/bisonapp",
-    "stargazers_count": 461,
-    "open_issues_count": 19,
+    "stargazers_count": 462,
+    "open_issues_count": 18,
     "forks_count": 21
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 29363,
-    "open_issues_count": 115,
-    "forks_count": 2631
+    "stargazers_count": 29411,
+    "open_issues_count": 116,
+    "forks_count": 2634
   },
   {
     "full_name": "quirrel-dev/quirrel-on-railway",
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "binyamin/eleventy-garden",
-    "stargazers_count": 343,
+    "stargazers_count": 345,
     "open_issues_count": 12,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "prisma/docs",
-    "stargazers_count": 729,
-    "open_issues_count": 668,
-    "forks_count": 545
+    "stargazers_count": 731,
+    "open_issues_count": 676,
+    "forks_count": 548
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30261,
-    "open_issues_count": 423,
-    "forks_count": 4315
+    "stargazers_count": 30285,
+    "open_issues_count": 438,
+    "forks_count": 4335
   },
   {
     "full_name": "appsmithorg/appsmith",
-    "stargazers_count": 22310,
-    "open_issues_count": 2730,
-    "forks_count": 1938
+    "stargazers_count": 22376,
+    "open_issues_count": 2747,
+    "forks_count": 1945
   },
   {
     "full_name": "GorvGoyl/Clone-Wars",
-    "stargazers_count": 22333,
+    "stargazers_count": 22385,
     "open_issues_count": 21,
-    "forks_count": 1895
+    "forks_count": 1902
   },
   {
     "full_name": "j4rodm/sn-libra",
@@ -164,7 +164,7 @@
   {
     "full_name": "redwoodjs/redwoodjs.com",
     "stargazers_count": 10,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 15
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 18644,
-    "open_issues_count": 64,
-    "forks_count": 897
+    "stargazers_count": 18726,
+    "open_issues_count": 36,
+    "forks_count": 902
   }
 ]
