@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "wong2/chat-gpt-google-extension",
+    "stargazers_count": 6361,
+    "open_issues_count": 18,
+    "forks_count": 370
+  },
+  {
+    "full_name": "m-c-frank/gptchathistory",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "nhaouari/obsidian-textgenerator-plugin",
-    "stargazers_count": 291,
+    "stargazers_count": 307,
     "open_issues_count": 5,
-    "forks_count": 21
+    "forks_count": 23
   },
   {
     "full_name": "sw-yx/ai-notes",
-    "stargazers_count": 1114,
-    "open_issues_count": 4,
-    "forks_count": 40
+    "stargazers_count": 1167,
+    "open_issues_count": 2,
+    "forks_count": 47
   },
   {
     "full_name": "madebyollin/maple-diffusion",
-    "stargazers_count": 524,
+    "stargazers_count": 531,
     "open_issues_count": 12,
     "forks_count": 21
   },
   {
     "full_name": "monicahq/monica",
-    "stargazers_count": 18319,
-    "open_issues_count": 577,
-    "forks_count": 1817
+    "stargazers_count": 18347,
+    "open_issues_count": 583,
+    "forks_count": 1820
   },
   {
     "full_name": "andersonk17474/ServiceNow-Bulk-Updateset-Deployer",
@@ -33,19 +45,19 @@
     "full_name": "thisnameissoclever/ServiceNow-EfficientGlideRecord",
     "stargazers_count": 10,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 60468,
+    "stargazers_count": 60547,
     "open_issues_count": 374,
-    "forks_count": 8046
+    "forks_count": 8050
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 220689,
-    "open_issues_count": 193,
-    "forks_count": 31912
+    "stargazers_count": 221047,
+    "open_issues_count": 207,
+    "forks_count": 31973
   },
   {
     "full_name": "bholmesdev/whiteboard-the-web",
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 15922,
-    "open_issues_count": 815,
-    "forks_count": 2886
+    "stargazers_count": 15930,
+    "open_issues_count": 818,
+    "forks_count": 2893
   },
   {
     "full_name": "ekansh005/elewind",
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "umami-software/umami",
-    "stargazers_count": 13916,
-    "open_issues_count": 78,
-    "forks_count": 2192
+    "stargazers_count": 13932,
+    "open_issues_count": 77,
+    "forks_count": 2199
   },
   {
     "full_name": "codecreativeio/ServiceNow-Catalog-Experience",
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "mailgun/transactional-email-templates",
-    "stargazers_count": 6752,
+    "stargazers_count": 6753,
     "open_issues_count": 12,
     "forks_count": 1175
   },
@@ -128,13 +140,13 @@
   {
     "full_name": "chronotruck/mjml2html",
     "stargazers_count": 13,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 2
   },
   {
     "full_name": "echobind/bisonapp",
-    "stargazers_count": 534,
-    "open_issues_count": 19,
+    "stargazers_count": 536,
+    "open_issues_count": 24,
     "forks_count": 27
   },
   {
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 30081,
-    "open_issues_count": 109,
-    "forks_count": 2689
+    "stargazers_count": 30120,
+    "open_issues_count": 119,
+    "forks_count": 2700
   },
   {
     "full_name": "quirrel-dev/quirrel-on-railway",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "binyamin/eleventy-garden",
-    "stargazers_count": 351,
+    "stargazers_count": 352,
     "open_issues_count": 15,
     "forks_count": 46
-  },
-  {
-    "full_name": "prisma/docs",
-    "stargazers_count": 745,
-    "open_issues_count": 694,
-    "forks_count": 566
-  },
-  {
-    "full_name": "cli/cli",
-    "stargazers_count": 30649,
-    "open_issues_count": 421,
-    "forks_count": 4451
   }
 ]
